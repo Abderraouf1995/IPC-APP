@@ -1,1 +1,1 @@
-FROM cptactionhank/atlassian-jira-software:8.16.0
+FROM atlassian/jira-software:9.7.0-RC01-jdk11
